@@ -22,7 +22,7 @@
 
 I am **Ntokozo Joy Nhlapo** — curious, driven, and building a future in cloud computing and cybersecurity from the ground up.
 
-My path into tech has not been linear, and I have come to see that as a strength. I started out in data capturing, moved through administration and executive support in the logistics industry, and somewhere along the way realised that technology was not just something I used — it was something I wanted to *build* and *protect*. The **Praesignis AWS re/Start Programme** is where that realisation became action.
+My path into tech has not been linear, and I have come to see that as a strength. I started out in data capturing, moved through administration and executive support in the logistics industry, and somewhere along the way realised that technology was not just something I used, it was something I wanted to *build* and *protect*. The **Praesignis AWS re/Start Programme** is where that realisation became action.
 
 What I bring to this field is not just technical knowledge. It is:
 
@@ -30,7 +30,7 @@ What I bring to this field is not just technical knowledge. It is:
 - ⚡ The ability to learn fast and apply concepts in real environments, not just pass tests
 - 🧩 A systems thinker who asks *why* before asking *how*
 - 🛡️ A genuine passion for **cybersecurity, cloud infrastructure, and AI-driven security tools**
-- 🌍 A bilingual communicator — English and isiZulu — who can engage across teams and contexts
+- 🌍 A bilingual communicator — English and isiZulu, who can engage across teams and contexts
 
 I do not just want a career in tech. I want to contribute to it in a way that is meaningful, rigorous, and mine.
 
@@ -63,7 +63,7 @@ I do not just want a career in tech. I want to contribute to it in a way that is
 <br>
 
 - Understanding cloud computing concepts, deployment models, and the core benefits of AWS
-- Working with EC2 instances — launching, configuring, and managing virtual servers
+- Working with EC2 instances, launching, configuring, and managing virtual servers
 - Exploring S3 for scalable object storage and understanding storage classes
 - Applying the **AWS Shared Responsibility Model** to real security scenarios
 - Understanding the AWS global infrastructure: regions, availability zones, and edge locations
@@ -158,7 +158,7 @@ AWS re/Start has done more than teach me cloud skills. It has changed how I thin
 > *"Cloud computing is not just a technical skill. It is a way of thinking about systems, scale, and security."*
 
 **My background is an asset, not a gap.**
-Years of working with sensitive data, managing complex documentation, and supporting executive decision-making gave me habits that translate directly into cloud and security work — precision, discretion, and investigative thinking.
+Years of working with sensitive data, managing complex documentation, and supporting executive decision-making gave me habits that translate directly into cloud and security work, precision, discretion, and investigative thinking.
 
 **Learning fast is a skill in itself.**
 Completing the AWS AI Practitioner Learning Plan and Generative AI for Decision Makers alongside the re/Start core curriculum showed me that I absorb and apply new concepts quickly when I care about the subject. And I genuinely care about this one.
