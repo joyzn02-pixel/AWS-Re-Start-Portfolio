@@ -20,7 +20,7 @@
 
 ## 👋 Who I Am
 
-I am **Ntokozo Joy Nhlapo** — curious, driven, and building a future in cloud computing and cybersecurity from the ground up.
+I am **Ntokozo Joy Nhlapo**, curious, driven, and building a future in cloud computing and cybersecurity from the ground up.
 
 My path into tech has not been linear, and I have come to see that as a strength. I started out in data capturing, moved through administration and executive support in the logistics industry, and somewhere along the way realised that technology was not just something I used, it was something I wanted to *build* and *protect*. The **Praesignis AWS re/Start Programme** is where that realisation became action.
 
@@ -110,8 +110,8 @@ I do not just want a career in tech. I want to contribute to it in a way that is
 
 <br>
 
-- **AWS AI Practitioner Learning Plan** - understanding AWS AI and ML services, responsible AI, and how AI integrates with cloud infrastructure
-- **Generative AI for Decision Makers** - applying GenAI concepts in enterprise and business contexts, understanding governance and risk
+- **AWS AI Practitioner Learning Plan**: understanding AWS AI and ML services, responsible AI, and how AI integrates with cloud infrastructure
+- **Generative AI for Decision Makers**: applying GenAI concepts in enterprise and business contexts, understanding governance and risk
 - Understanding how AI-driven tools are increasingly relevant to cloud security and threat detection
 
 </details>
