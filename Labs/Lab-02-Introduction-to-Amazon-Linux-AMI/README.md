@@ -25,12 +25,14 @@ Key concepts practised:
 ### Screenshot 01 - SSH Connection Successful
 
 The terminal shows a successful SSH connection to the EC2 instance using the downloaded PEM key. The Amazon Linux welcome banner confirms the connection was established and the instance is accessible. The prompt changed to `[ec2-user@ip-10-0-10-50 ~]$` indicating we are now operating inside the remote server.
+![SSH Connection Successful](screenshot-01-ssh-connected.png)
 
 ---
 
 ### Screenshot 02 - man man Command Output (Top of Page)
 
 The `man man` command was entered in the terminal. This opens the manual page for the `man` command itself. The top of the page shows the **NAME** and **SYNOPSIS** sections, which describe what the command is and the syntax for using it.
+![man man Command Output](screenshot-02-man-page-top.png)
 
 ---
 
@@ -49,9 +51,12 @@ Scrolling down reveals the **DESCRIPTION** header. This section explains that th
 - **9** - Kernel routines
 
 This helps users understand where to look depending on what type of command or function they are researching.
+![DESCRIPTION Section](screenshot-03-description-section.png)
+
 
 ---
 
 ### Screenshot 04 - Submission Report
 
 The lab submission report confirms successful completion, executed on 20 May 2026.
+![Submission Report](screenshot-04-submission-report.png)
