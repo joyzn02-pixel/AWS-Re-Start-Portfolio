@@ -1,4 +1,4 @@
-# ☁️ AWS re/Start Portfolio — Bandile Mandy Khwela
+# ☁️ AWS re/Start Portfolio — Ntokozo Joy Nhlapo
 
 Welcome to my AWS re/Start programme portfolio. This repository documents the hands-on cloud projects I completed as part of the Praesignis AWS re/Start Special Projects series, demonstrating practical skills across core AWS services.
 
@@ -6,7 +6,7 @@ Welcome to my AWS re/Start programme portfolio. This repository documents the ha
 
 ## 👩🏽‍💻 About Me
 
-I'm Bandile Mandy Khwela, an AWS re/Start graduate passionate about cloud infrastructure, web hosting, and building scalable digital solutions. This portfolio showcases real-world AWS deployments I designed, built, and presented.
+I'm Ntokozo Joy Nhlapo, an AWS re/Start program participant passionate about cloud infrastructure, web hosting, and building scalable digital solutions. This portfolio showcases real-world AWS deployments I designed, built, and presented.
 
 ---
 
