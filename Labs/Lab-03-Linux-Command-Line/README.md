@@ -1,3 +1,33 @@
+# Lab 03 - Linux Command Line
+
+**Programme:** Praesignis AWS re/Start
+**Date completed:** 20 May 2026
+**Lab topic:** Linux CLI fundamentals - system information, date/time, calendar, and command history
+
+---
+
+## 📝 What This Lab Covered
+
+This lab focused on using the Linux command line to gather system information and navigate the shell more efficiently. It covered a range of practical commands for identifying the current user, checking system uptime, viewing date and time across different time zones, displaying calendars in different formats, and reusing previous commands from the session history.
+
+Key concepts practised:
+
+- Using `whoami` to identify the current logged-in user
+- Using `hostname -s` to retrieve the shortened system hostname
+- Using `uptime -p` to check how long the system has been running
+- Using `who -H -a` to display active session details with headers
+- Using `TZ=` to display the current date and time in different time zones
+- Using `cal -j` to display a Julian calendar (day numbers 1-365)
+- Using `cal -s` and `cal -m` to display Sunday-first and Monday-first calendar views
+- Using `id` to view a user's UID, GID, and all group memberships
+- Using `history` to view all commands run in the current session
+- Using `Ctrl+R` to search backwards through command history
+- Using `!!` to instantly rerun the last command
+
+---
+
+## 📸 Screenshots and Explanations
+
 ### Screenshot 01 - SSH Connection Successful
 
 The lab credentials panel shows the PublicIP address `54.212.32.152` and the SSH key used to connect to the EC2 instance for this lab session.
@@ -50,3 +80,19 @@ Today (20 May 2026) was highlighted as day **140** in the Julian view and as **2
 The lab was submitted successfully before ending the session, executed at `Tue May 19 23:25:50 PDT 2026`.
 
 ![Submission Report](screenshot-05-submission-report.png)
+
+---
+
+## 💡 What I Learned
+
+This lab built practical familiarity with everyday Linux shell commands used in real system administration and cloud environments:
+
+- Basic identity and session commands (`whoami`, `hostname`, `uptime`, `who`) give a quick overview of who is logged in and the state of the system
+- Time zone handling with `TZ=` is useful when working with cloud infrastructure spread across multiple regions
+- Julian calendars (`cal -j`) are used in scripting and scheduling to reference days by number rather than date
+- Command history tools (`history`, `Ctrl+R`, `!!`) save time and reduce errors by allowing previous commands to be reused without retyping
+- The `id` command is particularly useful for verifying group memberships when troubleshooting permission issues
+
+---
+
+*Lab completed by Ntokozo Joy Nhlapo | Praesignis AWS re/Start 2026*
