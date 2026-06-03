@@ -1,2 +1,2 @@
 --# Labs
-This folder contains my AWS re/Start lab work.
+This folder contains all my AWS re/Start lab work.
