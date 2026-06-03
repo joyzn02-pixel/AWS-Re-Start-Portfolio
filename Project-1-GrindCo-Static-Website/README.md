@@ -2,7 +2,7 @@
 
 **Programme:** Praesignis AWS re/Start Special Projects
 **Project Type:** Static Website Deployment + Business Presentation
-**Deployment:** Hosted live on AWS (S3 + CloudFront) during the project period
+**Deployment:** Hosted live on AWS (S3 + CloudFront) during the project period and later stopped in order to not incur costs from running the static website on S3 using CloudFront. 
 
 ---
 
