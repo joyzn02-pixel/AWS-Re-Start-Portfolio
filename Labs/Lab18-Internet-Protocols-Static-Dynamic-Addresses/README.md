@@ -1,5 +1,4 @@
 # Lab 18 — Internet Protocols: Static and Dynamic Addresses
-# Lab 18 — Internet Protocols: Static and Dynamic Addresses
 
 | | |
 |---|---|
@@ -65,7 +64,7 @@ With the instance running, the Networking tab shows the first assigned public IP
 ### 6. Instance Stopped — Public IP Disappeared
 ![Instance stopped, public IP field is blank](screenshots/Screenshot_2026-06-05_at_08_35_42.png)
 
-After stopping the instance, the Public IPv4 address field in the Networking tab is now blank (`–`). The public IP has been released back to AWS's pool. This is the core of Bob's problem — stopping the instance loses the public IP entirely.
+After stopping the instance, the Public IPv4 address field in the Networking tab is now blank. The public IP has been released back to AWS's pool. This is the core of Bob's problem — stopping the instance loses the public IP entirely.
 
 ---
 
@@ -93,7 +92,7 @@ The Associate Elastic IP address dialog shows EIP `52.89.218.178` being associat
 ### 10. EIP Association Confirmed
 ![Success banner: EIP 52.89.218.178 associated with i-00d31102c0f51a91b](screenshots/Screenshot_2026-06-05_at_08_49_22.png)
 
-The green banner confirms: Elastic IP address 52.89.218.178 has been associated with instance i-00d31102c0f51a91b. The EIP now appears in the Elastic IP addresses list as associated.
+The green banner confirms that Elastic IP address 52.89.218.178 has been associated with instance i-00d31102c0f51a91b. The EIP now appears in the Elastic IP addresses list as associated.
 
 ---
 
@@ -104,7 +103,7 @@ After stopping the instance with the EIP attached, the Public IPv4 DNS column st
 
 ---
 
-### 12. Instance Restarted — EIP Unchanged ✅
+### 12. Instance Restarted — EIP Unchanged
 ![Instance running again, EIP 52.89.218.178 unchanged in Networking tab](screenshots/Screenshot_2026-06-05_at_08_51_30.png)
 
 After starting the instance again, the Networking tab confirms the Public IPv4 address is still **52.89.218.178** — exactly the same as before. The private IP `10.0.10.193` is also unchanged. Bob's problem is solved: with an Elastic IP, the public address is now static and predictable across stop/start cycles.
