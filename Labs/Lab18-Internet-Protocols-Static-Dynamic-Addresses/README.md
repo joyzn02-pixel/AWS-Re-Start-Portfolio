@@ -1,5 +1,4 @@
 # Lab 18 — Internet Protocols: Static and Dynamic Addresses
-# Lab 18 — Internet Protocols: Static and Dynamic Addresses
 
 | | |
 |---|---|
